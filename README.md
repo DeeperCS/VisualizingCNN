@@ -44,4 +44,4 @@ Change `target_layer` and `feat_map` to what you want.
 
 ## Reference
 
-- [Visualizing and Understanding Convolutional Networks](http://arxiv.org/abs/1608.06993)
+- [Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901v1.pdf)
